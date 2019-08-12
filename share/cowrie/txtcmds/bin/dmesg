@@ -94,7 +94,7 @@
 [    0.004000]       .text : 0xc0100000 - 0xc02baaa1   (1770 kB)
 [    0.004000] Checking if this processor honours the WP bit even in supervisor mode...Ok.
 [    0.004000] CPA: page pool initialized 1 of 1 pages preallocated
-[    0.085099] Calibrating delay using timer specific routine.. 4287.59 BogoMIPS (lpj=8575183)
+[    0.085099] Calibrating delay using timer specific routine.. 4416.00 BogoMIPS (lpj=8575183)
 [    0.085226] Security Framework initialized
 [    0.085244] SELinux:  Disabled at boot.
 [    0.085252] Capability LSM initialized
@@ -112,9 +112,9 @@
 [    0.141125] ACPI: Core revision 20080321
 [    0.145573] ENABLING IO-APIC IRQs
 [    0.145808] ..TIMER: vector=0x31 apic1=0 pin1=2 apic2=-1 pin2=-1
-[    0.185971] CPU0: Intel(R) Core(TM)2 Duo CPU     E8200  @ 2.66GHz stepping 08
+[    0.185971] CPU0: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz stepping 10
 [    0.188011] Brought up 1 CPUs
-[    0.188011] Total of 1 processors activated (4287.59 BogoMIPS).
+[    0.188011] Total of 1 processors activated (4416.00 BogoMIPS).
 [    0.188011] CPU0 attaching sched-domain:
 [    0.188011]  domain 0: span 0
 [    0.188011]   groups: 0
